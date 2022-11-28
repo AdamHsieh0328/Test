@@ -1,2 +1,3 @@
 I create a.txt
 I create featiureA
+Hi im feature C
