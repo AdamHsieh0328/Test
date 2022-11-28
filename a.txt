@@ -1,3 +1,5 @@
 I create a.txt
 I create featiureA
+I create featureB
 Hi im feature C
+
