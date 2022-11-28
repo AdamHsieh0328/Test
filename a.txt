@@ -1,3 +1,5 @@
 I create a.txt
 I create featiureA
+I fix the feature B
 Hi im feature C
+
